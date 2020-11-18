@@ -1,9 +1,11 @@
 # CompetitiveCode <img align = "right" src ="https://img.shields.io/github/watchers/Vishruth-S/CompetitiveCode?style=social"> <img align = "right" src ="https://img.shields.io/github/stars/Vishruth-S/CompetitiveCode?style=social">    <img align = "right" src ="https://img.shields.io/github/forks/Vishruth-S/CompetitiveCode?style=social">
 
-<img src="https://img.shields.io/github/contributors/Vishruth-S/CompetitiveCode">  <img src="https://img.shields.io/tokei/lines/github/Vishruth-S/CompetitiveCode">           <img src="https://img.shields.io/github/last-commit/Vishruth-S/CompetitiveCode">   <img src="https://img.shields.io/github/languages/count/Vishruth-S/CompetitiveCode">
+<img src="https://img.shields.io/github/contributors/Vishruth-S/CompetitiveCode">  <img src="https://img.shields.io/tokei/lines/github/Vishruth-S/CompetitiveCode">             <img src="https://img.shields.io/github/languages/count/Vishruth-S/CompetitiveCode"> <img src="https://img.shields.io/github/issues/Vishruth-S/CompetitiveCode">
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
 
 
-This is a repo for interesting Competitive Coding problems. 📜💻 
+This is a repo for interesting Competitive Coding problems and solutions💻   
+Check out [Useful Resources](https://github.com/Vishruth-S/CompetitiveCode/blob/main/USEFUL_RESOURCES.md) for some great resources that can help in Competitive Coding📜
 
 If you've got an interesting problem from any Competitve coding platform,add it in their respective folder. If you are creating your own problem, add it into "misc" folder
 
@@ -44,6 +46,6 @@ Wait for your PR review and merge approval!** 🎉🎉
   * 🔗 [_**Ways of Contributing**_](CONTRIBUTING.md)
   * 🔗 [_**Code of Conduct**_](CODE_OF_CONDUCT.md)
 
-PS: Star this repo while you're at it :) ⭐⭐⭐⭐⭐
+### PS: Show some :yellow_heart: and star :star: this repo to support
 
-**Stay Awesome !!** :smiley:
+#### Stay Awesome !! :smiley:
